@@ -1,13 +1,13 @@
 {
-	"site_name": "Sendit",
-	"site_title": "Sendit Template Astro",
+	"site_name": "Jybsoft",
+	"site_title": "Jybsoft Template Astro",
 	"description": "A polished, marketing website template built with Astro.",
 	"author": "",
 	"author_email": "",
 	"images": [
 		{
 			"image": "/images/_screenshot.png",
-			"description": "Screenshot for Sendit Template",
+			"description": "Screenshot for Jybsoft Template",
 			"height": 0,
 			"width": 0
 		}

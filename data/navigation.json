@@ -6,28 +6,16 @@
       "text": "Home"
     },
     {
-      "link": "/features/",
-      "text": "Features"
+      "link": "/about/",
+      "text": "A propos"
     },
     {
       "link": "/pricing/",
-      "text": "Pricing"
-    },
-    {
-      "link": "/about/",
-      "text": "About"
-    },
-    {
-      "link": "/blog/",
-      "text": "Blog"
+      "text": "Tarifs"
     },
     {
       "link": "/contact/",
       "text": "Contact"
     }
-  ],
-  "btn": {
-    "link": "/signup/",
-    "text": "Get Started"
-  }
+  ]
 }

@@ -1,57 +1,26 @@
-# Sendit
+###Jybsoft Static Presentation Website
 
-Sendit is a polished, marketing website template for Astro. Browse through a [live demo](https://top-quail.cloudvent.net/).
+This is the Git project for the website of Jybsoft, a tech company that regroups freelance developers and designers.
 
-![Sendit template screenshot](public/images/_screenshot.png)
+The website is built using HTML, CSS, and JavaScript, and is meant to showcase Jybsoft's services and projects, as well as provide information about the company's team and values.
 
-[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/sendit-astro-template)
+##Getting Started
+To get started with the project, you will need to clone the Git repository to your local machine:
 
-## Features
+bash
+Copy code
+git clone https://github.com/jybsoft/presentation-website.git
+You can then open the project in your preferred code editor and start making changes. The website is organized in different directories and files:
 
-- Pre-built pages
-- Pre-styled components
-- Blog with pagination and category pages
-- Configurable navigation and footer
-- Multiple hero options
-- Configurable theme colors
-- Optimised for editing in [CloudCannon](https://cloudcannon.com/)
+index.html: the main HTML file for the website, which includes the header, navigation, main content, and footer.
+css/: a directory that contains the CSS files for the website, including the main styles and any additional stylesheets.
+js/: a directory that contains the JavaScript files for the website, including any scripts for interactivity and functionality.
+img/: a directory that contains the image files used in the website, including logos, photos, and graphics.
+fonts/: a directory that contains any custom font files used in the website.
+You can modify any of these files to customize the website's appearance and content.
 
-## Setup
+##Contributing
+If you would like to contribute to the project, you can create a pull request with your changes. Please make sure to follow the existing code style and guidelines, and to test your changes thoroughly before submitting.
 
-1. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/)
-   or Astro locally).
-
-## Develop
-
-Sendit is built with [Astro](https://astro.build/).
-
-```bash
-$ npm install
-$ npm run dev
-```
-
-## Editing
-
-Sendit is set up for adding, updating and removing pages, components, posts, portfolio items, company details and footer elements in [CloudCannon](https://app.cloudcannon.com/).
-
-### Posts
-
-- Add, update or remove a post in the _Posts_ collection.
-- The **Staff Author** field links to members in the **Staff** collection.
-- Change the defaults when new posts are created in `content/posts/_defaults.md`.
-
-### Company details
-
-- Reused around the site to save multiple editing locations.
-- Set in the _Data_ / _Company_ section.
-
-### Nav/footer details
-
-- Reused around the site to save multiple editing locations.
-- Set in the _Data_ section with respective names
-
-### Theme colors
-
-- Theme colors can be set in _Data_ / _Theme_
-- The main colors are set and variants of them are computed
-- The colors will update on the next build
+##License
+The Jybsoft Website is released under the MIT License. You are free to use, modify, and distribute the code as long as you include the original copyright notice and license information.

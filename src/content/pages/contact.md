@@ -10,36 +10,36 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: contact/hero
-    title: Let's talk.
-    description: Have a question or suggestion? Feel free to drop us a message!
+    title: Discutons
+    description: Vous avez une question ou vous êtes intéressés ?
   - _bookshop_name: contact/form
     address:
       heading: Office Address
-      address: 123 Train St, San Francisco, CA 9107
+      address: Rue du Lait, 43 MilkLand
     phone:
       heading: Phone
-      cell: (123) 456 - 7895
+      cell: (+33) 6 67 07 01 24
       image: /images/contact/call-add.svg
       image_alt: call-add
     email:
       heading: Email
-      email: info@example.com
+      email: contact@jybsoft.com
       image: /images/contact/directbox-send.svg
       image_alt: send-box
     form:
-      heading: Say Hello
+      heading: On vous écoute
       fullname:
-        heading: Full Name
-        placeholder: Enter First Name
+        heading: Nom
+        placeholder: Entrez votre nom
       phone_number:
-        heading: Phone number
-        placeholder: Enter Phone Number
+        heading: Numéro
+        placeholder: Entrez votre numéro
       email:
-        heading: Email Address
-        placeholder: Enter Email Address
+        heading: Adresse mail
+        placeholder: Entrez votre adresse mail
       message:
-        heading: Your Messages
-        placeholder: Enter your message
+        heading: Votre message
+        placeholder: Dites nous tout
       submit_button:
-        text: Send message
+        text: Envoyez
 ---

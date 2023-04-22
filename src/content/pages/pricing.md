@@ -10,98 +10,29 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: pricing/hero
-    title: A plan for everyone
-    description: Sendit is easy to get started and we have a pricing plan for businesses of all sizes.
+    title: Les différentes formules
+    description: Chaque formule répond à un besoin que vous avez, à vous de choisir.
 
   - _bookshop_name: pricing/table
     pricing_tier:
-      - tier: Free
+      - tier: Website
         highlight_tier: false
-        description: Everything you need to get started.
-        currency_symbol: $
-        price: 0
-        has_discount: false
-        discount_price: 0
-        features:
-          - item: 1 Email Campaign
-            active_feature: true
-          - item: 1 Year Premium Support
-            active_feature: true
-          - item: Regular Update for 1 Year
-            active_feature: true
-          - item: 90+ Widgets & Extensions
-            active_feature: true
-          - item: 23+ Templates
-            active_feature: true
-          - item: Over 800 Section Blocks
-            active_feature: false
-          - item: Support
-            active_feature: false
-          - item: 3 filters
-            active_feature: false
-          - item: Unlimited activity history
-            active_feature: false
+        description: On vous crée un site web 
         button:
-          link: /signup
-          text: Try This Free
-      - tier: Pro
+          link: /contact
+          text: Se renseignez
+      - tier: Maintenance
         highlight_tier: true
-        description: More collaborative power and unlimited boards for fast-growing.
-        currency_symbol: $
-        price: 199
-        has_discount: true
-        discount_price: 125
-        features:
-          - item: 1 Email Campaign
-            active_feature: true
-          - item: 1 Year Premium Support
-            active_feature: true
-          - item: Regular Update for 1 Year
-            active_feature: true
-          - item: 90+ Widgets & Extensions
-            active_feature: true
-          - item: 23+ Templates
-            active_feature: true
-          - item: Over 800 Section Blocks
-            active_feature: true
-          - item: Support
-            active_feature: false
-          - item: 3 filters
-            active_feature: false
-          - item: Unlimited activity history
-            active_feature: false
+        description: Vous disposerez d'une équipe afin de maintenir et d'assurez votre site
         button:
-          link: /signup
-          text: Try This Free
-      - tier: Business
+          link: /contact
+          text: Se renseignez
+      - tier: Audit
         highlight_tier: false
-        description: For starters Includes unlimited members
-        currency_symbol: $
-        price: 499
-        has_discount: true
-        discount_price: 350
-        features:
-          - item: 1 Email Campaign
-            active_feature: true
-          - item: 1 Year Premium Support
-            active_feature: true
-          - item: Regular Update for 1 Year
-            active_feature: true
-          - item: 90+ Widgets & Extensions
-            active_feature: true
-          - item: 23+ Templates
-            active_feature: true
-          - item: Over 800 Section Blocks
-            active_feature: true
-          - item: Support
-            active_feature: true
-          - item: 3 filters
-            active_feature: true
-          - item: Unlimited activity history
-            active_feature: true
+        description: On examine votre site et on vous fait un rapport des choses à améliorer et changer.
         button:
-          link: /signup
-          text: Try This Free
+          link: /contact
+          text: Se renseignez
 
   - _bookshop_name: global/faq
     title: Have

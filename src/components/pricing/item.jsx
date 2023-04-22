@@ -1,5 +1,5 @@
 export default function PricingTier({ tier, dataBinding }) {
-  let pricing = "";
+  let pricing;
   if (tier.has_discount) {
     pricing = (
       <>
@@ -49,18 +49,6 @@ export default function PricingTier({ tier, dataBinding }) {
         <p className="card-text">{tier.description}</p>
         {pricing}
         <div className="card-body">
-          <ul className="list-unstyled">
-            {tier.features.map((feature, i) => (
-              <li key={i} className={feature.active_feature ? "" : "deactive"}>
-                <i
-                  className={`ph-check ${
-                    feature.active_feature ? "" : "deactive"
-                  }`}
-                ></i>
-                {feature.item}
-              </li>
-            ))}
-          </ul>
           <div className="link">
             {tier.button && (
               <a href={tier.button.link} className="btn btn-lg btn-white">

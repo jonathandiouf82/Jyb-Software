@@ -10,8 +10,8 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: about/hero
-    title: On a mission to change email marketing
-    description: We're here to breathe new air into email marketing and help grow your business.
+    title: Créez une présence en ligne exceptionnelle avec notre équipe experte.
+    description: Nous construisons des sites web qui inspirent la confiance et génèrent des résultats
     hero_images:
       - image: /images/about/aboutfeature-two.jpg
         image_alt: People working on laptops
