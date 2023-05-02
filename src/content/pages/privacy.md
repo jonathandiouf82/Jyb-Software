@@ -1,5 +1,5 @@
 ---
-title: Privacy
+title: Conditions Générales
 seo:
   page_description:
   canonical_url:
@@ -10,17 +10,15 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: privacy/hero
-    title: Terms & Conditions
+    title: Conditions Générales
   - _bookshop_name: privacy/privacy
     terms_and_conditions:
-      - heading: Sendit Terms And Conditions
+      - heading: Conditions Générales de Jybsoft
         description: >-
-          <p>By using Sendit, you agree to the terms and conditions listed on this page.</p>
-          <p>Sendit may change the terms on this page. We will take steps to notify you
-          when this occurs, but you are responsible for staying up-to-date with these changes.</p>
-      - heading: Account Information & Payments
+          <p>Jybsoft se réserve le droit de modifier les termes de cette page.</p>
+          <p>Nous prendrons des mesures pour vous informer de ces changements, mais vous êtes responsable de vous tenir au courant de ces modifications.</p>
+      - heading: Informations sur le compte et paiements
         description: >-
-          <ul><li>Fees must be paid at or before the date specified in your payment plan.</li>
-          <li>Failure to pay account fees may result in restricted or suspended access
-          to your Sendit account.</li></ul>
+          <ul><li>Les frais doivent être payés à la date spécifiée dans votre plan de paiement.</li>
+          <li>Le non-paiement des frais de compte peut entraîner une restriction ou une suspension de l'accès à votre compte Jybsoft.</li></ul>
 ---

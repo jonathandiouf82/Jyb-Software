@@ -23,6 +23,6 @@ content_blocks:
         image_alt: Staff group photo
         placement: "back_top_left"
     button:
-      text: "Try This Free"
+      text: "Contactez Nous"
       link: "/signup"
 ---

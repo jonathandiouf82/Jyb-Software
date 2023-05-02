@@ -2,8 +2,8 @@
 spec:
   structures:
     - content_blocks
-  label: Home Hero
-  description: Home Hero section
+  label: Accueil Hero
+  description: Accueil Hero section
   icon: "cottage"
   tags: ["hero"]
 
@@ -14,7 +14,7 @@ blueprint:
   image: /images/hero/hero-image-2.png
   image_alt: Dashboard with reports
   button:
-    text: Try This Free
+    text: Contactez Nous
     link: /signup
 
 # Overrides any fields in the blueprint when viewing this component in the component browser

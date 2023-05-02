@@ -10,8 +10,8 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: contact/hero
-    title: Discutons
-    description: Vous avez une question ou vous êtes intéressés ?
+    title: Contactez-Nous
+    description: Besoin d'un site web ou d'une application sur mesure, d'un service de maintenance ou d'un audit détaillé ? Contactez-nous pour discuter de vos besoins et obtenir un devis personnalisé.
   - _bookshop_name: contact/form
     address:
       heading: Office Address
@@ -27,7 +27,7 @@ content_blocks:
       image: /images/contact/directbox-send.svg
       image_alt: send-box
     form:
-      heading: On vous écoute
+      heading: CONTACT
       fullname:
         heading: Nom
         placeholder: Entrez votre nom

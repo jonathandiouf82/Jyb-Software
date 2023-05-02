@@ -10,6 +10,23 @@ $extbold-font-weight: 800;
 $base-letter-spacing: 0.5px;
 
 //Colors Variables
+/* SCSS HEX */
+$orange-crayola: #ff6b35ff;
+$peach: #f7c59fff;
+$beige: #efefd0ff;
+$polynesian-blue: #004e89ff;
+$lapis-lazuli: #1a659eff;
+
+/* SCSS Gradient */
+$gradient-top: linear-gradient(0deg, #ff6b35ff, #f7c59fff, #efefd0ff, #004e89ff, #1a659eff);
+$gradient-right: linear-gradient(90deg, #ff6b35ff, #f7c59fff, #efefd0ff, #004e89ff, #1a659eff);
+$gradient-bottom: linear-gradient(180deg, #ff6b35ff, #f7c59fff, #efefd0ff, #004e89ff, #1a659eff);
+$gradient-left: linear-gradient(270deg, #ff6b35ff, #f7c59fff, #efefd0ff, #004e89ff, #1a659eff);
+$gradient-top-right: linear-gradient(45deg, #ff6b35ff, #f7c59fff, #efefd0ff, #004e89ff, #1a659eff);
+$gradient-bottom-right: linear-gradient(135deg, #ff6b35ff, #f7c59fff, #efefd0ff, #004e89ff, #1a659eff);
+$gradient-top-left: linear-gradient(225deg, #ff6b35ff, #f7c59fff, #efefd0ff, #004e89ff, #1a659eff);
+$gradient-bottom-left: linear-gradient(315deg, #ff6b35ff, #f7c59fff, #efefd0ff, #004e89ff, #1a659eff);
+$gradient-radial: radial-gradient(#ff6b35ff, #f7c59fff, #efefd0ff, #004e89ff, #1a659eff);
 
 $color-white: #fff;
 $color-gray: #fcfcfc;
@@ -17,20 +34,20 @@ $color-cyan: #808080;
 $color-cyan-dark: #f3f3f3;
 $color-cyan-light: #5f5f5f;
 //overwritten by site.json -> theme -> primary_color if set
-$color-primary: #e53b2a;
-$color-primary-light: #e6ebf4;
+$color-primary: $orange-crayola;
+$color-primary-light: $peach;
 $color-primary-dark: mix($color-primary, $color-white, 12%);
 $color-gray-light: mix($color-primary, $color-white, 2%);
-$color-gray-dark: mix($color-primary, $color-white, 6%);
+$color-gray-dark: #ededed;
 //overwritten by site.json -> theme -> secondary_color if set
-$color-secondary: #fffbf3;
+$color-secondary: $beige;
 $color-secondary-light: mix($color-primary, $color-white, 16%);
 $color-secondary-dark: #f7f8fa;
 //overwritten by site.json -> theme -> anchor_color if set
-$color-anchor: #ffba08;
+$color-anchor: $polynesian-blue;
 $color-anchor-dark: mix($color-anchor, $color-white, 30%);
 //overwritten by site.json -> theme -> background_effects_color if set
-$color-background-effects: #faaa8f;
+$color-background-effects: $lapis-lazuli;
 
 $color-header: #000;
 $color-header-light: mix($color-anchor, $color-white, 4%);

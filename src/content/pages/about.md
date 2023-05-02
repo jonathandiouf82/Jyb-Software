@@ -1,5 +1,5 @@
 ---
-title: About
+title: A Propos
 seo:
   page_description:
   canonical_url:
@@ -23,41 +23,46 @@ content_blocks:
         image_alt: Staff group photo
         placement: "back_top_left"
     button:
-      text: "Try This Free"
+      text: "Contactez Nous"
       link: "/signup"
 
   - _bookshop_name: global/counter
-    title: Built for your
-    title_suffix: Business
-    description: We've built Sendit from the ground up the help grow your business faster.
+    title: Fait sur mesure
+    title_suffix: pour votre Entreprise
+    description: Chez Jybsoft, nous croyons que chaque entreprise mérite un site web de qualité professionnelle qui reflète sa vision et ses valeurs, et nous sommes là pour vous aider à réaliser cette vision.
+      
     alternate_style: true
     numbers:
-      - prefix: $
-        number: 200
-        suffix: m
-        text: Venture capital raised
-      - number: 2016
-        text: Established in
-      - number: 40
+      - prefix: 
+        number: 1500h
         suffix: +
-        text: Amazing team members
-      - number: 44325
+        text: de travail passionné
+      - prefix:
+        number: 100
+        suffix: '%'
+        text: de satisfaction de nos premiers clients
+      - prefix:
+        number: 5
         suffix: +
-        text: Active users and growing
+        text: Membres de l'équipe
+      - prefix:
+        number: 10
+        suffix: +
+        text: Projets réalisés
 
   - _bookshop_name: about/video
-    title: We love what we do
-    description: Our team has decades of experience working with email marketing campaigns and we’re passionate about helping you connect with your customers.
+    title: Nous aimons ce que nous faisons.
+    description: Notre équipe possède des années d'expérience dans le développement web, et nous sommes passionnés par vous aider à créer des sites et applications qui vous permettront de vous connecter avec vos clients.
     button:
       link: https://www.linkedin.com/
-      text: Follow on Linkedin
+      text: Suivre sur Linkedin
     video:
       image: /images/works/banner.jpg
       image_alt: Thumbnail image for video
       link: https://vimeo.com/45830194
 
   - _bookshop_name: about/team
-    title: Our leadership team
+    title: Nos membres fondateurs
     team_members:
       - name: Nikolas Mcconnell
         designation: Co-Founder & CEO

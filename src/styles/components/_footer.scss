@@ -4,9 +4,11 @@
 .footer {
   position: relative;
   background: $color-header;
+  padding-top: 70px !important;
   &-wrapper {
     max-width: 1500px;
     margin: 0 auto;
+    margin-left: 50px;
     @include media-breakpoint-down-xxl {
       max-width: 1100px;
     }
@@ -28,7 +30,7 @@
         text-align: left;
       }
       a {
-        margin-bottom: $base-margin * 2.5;
+        margin-bottom: $base-margin ;
         @include media-breakpoint-down-sm {
           margin-bottom: $base-margin * 1.25;
         }

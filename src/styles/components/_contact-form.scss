@@ -113,7 +113,7 @@
       border-radius: 20px;
       z-index: 1;
       margin-top: $base-margin;
-      padding: $base-padding * 4.2 $base-padding * 3.3 $base-padding * 3.1;
+      padding: $base-padding $base-padding * 3.3 $base-padding * 3.1;
       background: $color-white;
 
       @include media-breakpoint-down-md {

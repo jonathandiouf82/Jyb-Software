@@ -22,7 +22,7 @@ blueprint:
           active_feature: true
       button:
         link: /login
-        text: Try This Free
+        text: Contactez Nous
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:

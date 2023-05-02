@@ -1,7 +1,7 @@
 {
   "logo": "/images/footer-logo.svg",
   "logo_url": "/",
-  "copyright": "MyCompany. All rights reserved.",
+  "copyright": "Jybsoft. Tous droits réservés.",
   "social": [
     {
       "link": "https://www.facebook.com/mycompany",
@@ -26,41 +26,24 @@
   ],
   "sections": [
     {
-      "title": "Main Pages",
+      "title": "Pages principales",
       "links": [
         {
           "link": "/",
-          "text": "Home"
-        },
-        {
-          "link": "/features",
-          "text": "Features"
-        },
-        {
-          "link": "/pricing",
-          "text": "Price"
+          "text": "Accueil"
         },
         {
           "link": "/about",
-          "text": "About"
-        }
-      ]
-    },
-    {
-      "title": "Community",
-      "links": [
-        {
-          "link": "/blog",
-          "text": "Blog"
+          "text": "A propos"
         },
         {
-          "link": "/feed.xml",
-          "text": "RSS Feed"
+          "link": "/pricing",
+          "text": "Tarifs"
         }
       ]
     },
     {
-      "title": "Company",
+      "title": "Entreprise",
       "links": [
         {
           "link": "/contact",
@@ -68,7 +51,7 @@
         },
         {
           "link": "/privacy",
-          "text": "Privacy Policy"
+          "text": "Conditions Générales"
         }
       ]
     }

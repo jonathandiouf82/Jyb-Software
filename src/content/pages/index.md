@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Home
+title: Accueil
 seo:
   page_description:
   canonical_url:
@@ -13,59 +13,55 @@ content_blocks:
   - _bookshop_name: home/hero
     title: Votre succès en ligne commence ici.
     description: >-
-      Concevoir, entretenir et auditer. Nous sommes la pour tout vos besoins en termes de sites webs.
+      Concevoir, entretenir et auditer. Nous sommes la pour tout vos besoins en termes de sites et applications webs.
     button:
-      text: Try This Free
+      text: Contactez Nous
       link: /signup/
   - _bookshop_name: global/counter
-    title: Etendez votre
-    title_suffix: Business
+    title: Développez
+    title_suffix: votre Entreprise
     description: >-
       
     alternate_style: false
     numbers:
-      - prefix: $
-        number: 200
-        suffix: m
-        text: Venture capital raised
-      - prefix:
-        number: 2016
-        suffix:
-        text: Established in
-      - prefix:
-        number: 40
+      - prefix: 
+        number: 1500h
         suffix: +
-        text: Amazing team members
+        text: de travail passionné
       - prefix:
-        number: 4322
+        number: 100
+        suffix: '%'
+        text: de satisfaction de nos premiers clients
+      - prefix:
+        number: 5
         suffix: +
-        text: Active users and growing
+        text: Membres de l'équipe
+      - prefix:
+        number: 10
+        suffix: +
+        text: Projets réalisés
   - _bookshop_name: global/testimonial
-    title: Build relationships that
-    title_suffix: last
+    title: Construisez des relations
+    title_suffix: durables
     description: >-
-      Customers from around the world are building game changing email marketing
-      campaigns.
+      Des entreprises à travers l'Europe ont choisi nos services de développement web pour augmenter leur visibilité en ligne, renforcer leur présence sur le marché et améliorer leur image de marque.
     slider:
       - image: /images/testimonial/logo-2.jpg
         image_alt: Profile photo of Pete Fish
-        author: Pete Fish
-        designation: CMO at Clear Appeal
+        author: Stephen Avery
+        designation: CEO of Backdoorshoes
         message: >-
-          Sendit has taken Clear Appeal to the next level with it's beautiful
-          targetted email campaigns.
+          We entrusted Jybsoft with the creation of the French version of our website and we were not disappointed. Their team understood our needs and delivered a website that perfectly reflects our company. We recommend Jybsoft without hesitation.
       - image: /images/testimonial/logo-3.jpg
         image_alt: Profile photo of Dolly Watson
-        author: Dolly Watson
-        designation: Digital Marketer at Time Cop
+        author: Philippe Molina
+        designation: Patron des Trois Soleils
         message: >-
-          Wow, what a difference Sendit has made. My customers are more engaged
-          than ever.
+          Nous avons travaillé avec Jybsoft pour la refonte de notre site internet de e-commerce et nous sommes ravis du résultat. Ils ont été à l'écoute de nos attentes et ont su nous proposer des solutions adaptées à notre activité ! Rapide et efficace !
       - image: /images/testimonial/logo-4.jpg
         image_alt: Profile photo of Simon Moriarty
-        author: Simon Moriarty
-        designation: Head of Marketing at Pinnacle Mines
+        author: Tom Wolf
+        designation: CEO de MilkEasy
         message: >-
-          I can't imagine life without Sendit now, I have no idea how we were
-          surviving before.
+          Nous avons choisi Jybsoft pour la création de notre site internet et nous sommes très satisfaits du résultat. L'équipe de Jybsoft a été réactive, professionnelle et a su répondre à toutes nos demandes. Nous recommandons vivement Jybsoft pour tous vos projets web.
 ---

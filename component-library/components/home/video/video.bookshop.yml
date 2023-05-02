@@ -2,8 +2,8 @@
 spec:
   structures:
     - content_blocks
-  label: Home Video
-  description: Home Video section
+  label: Accueil Video
+  description: Accueil Video section
   icon: "videocam"
   tags: []
 
