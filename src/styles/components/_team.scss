@@ -32,6 +32,10 @@
     }
   }
 
+  .row {
+    justify-content: space-evenly;
+  }
+
   &-member {
     margin-bottom: $base-margin * 3.1;
 
