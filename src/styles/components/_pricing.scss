@@ -4,7 +4,7 @@
 .pricing,
 .pricing-two {
   position: relative;
-  margin-top: $base-margin;
+  margin-top: $base-margin * 0.5;
 
   .card {
     transition: all 0.3s ease-in-out;
@@ -235,7 +235,7 @@
   /* Pricing in Inner Page section */
   &-inner {
     position: relative;
-    padding: $base-padding * 14 $base-padding * 0 $base-padding * 27;
+    padding: $base-padding * 10 $base-padding * 0 $base-padding * 27;
 
     @include media-breakpoint-down-xxl {
       padding: $base-padding * 10 $base-padding * 0 $base-padding * 27;

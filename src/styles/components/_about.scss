@@ -2,7 +2,7 @@
   8. About Page and Section Styles
 **********/
 .about-hero-two {
-  padding: $base-padding * 9 0 $base-padding * 3;
+  padding: $base-padding * 5 0 $base-padding * 3;
   background: $color-secondary-dark;
   overflow: hidden;
 
@@ -68,7 +68,7 @@
       font-weight: $medium-font-weight;
       line-height: 36.3px;
       letter-spacing: -0.4px;
-      margin-bottom: $base-margin * 9;
+      margin-bottom: $base-margin * 3;
 
       @include media-breakpoint-down-xxl {
         margin-bottom: $base-margin * 5;
@@ -85,7 +85,7 @@
     }
 
     .scroll-down {
-      margin-bottom: $base-margin * 3.5;
+      margin-bottom: $base-margin ;
 
       @include media-breakpoint-down-xl {
         margin-bottom: $base-margin * 0;
